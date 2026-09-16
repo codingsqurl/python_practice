@@ -1,5 +1,6 @@
 import random                                                                                
-                                                                                              
+# test
+
 # this stays together because it starts getting a secret number and tells you all at once    
 # later in the code will ask what you think the number is                   
 secret_number = random.randint(1, 10)                                       
